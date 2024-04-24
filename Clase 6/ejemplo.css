@@ -1,0 +1,27 @@
+.texto{
+    background-color: yellow;
+    column-count: 2; /*cantidad de columnas*/
+    column-gap: 60px;
+    column-rule: 3px solid black;
+    text-align: center;
+    color: green;
+    box-shadow: -68px 10px 0px -55px rgba(0,0,0,0.22);
+}
+
+.texto p{
+    margin: 0;
+}
+h1{
+    font-family: arial;
+}
+h1, h2 {
+    font-family: "Pacifico", cursive;
+}
+
+p {
+    font-family: "Open Sans", sans-serif;
+}
+.iconos{
+    font-size: 200px;
+    color: aqua;
+}
