@@ -81,9 +81,9 @@ footer {
     aside{
         width: 100%;
         /* border-bottom: 2px solid black; */
-        /* display: none; */
+        display: none;
      
     }
 
 
-}  /*fin del @media*/
+}  /*fin del @media 480*/
